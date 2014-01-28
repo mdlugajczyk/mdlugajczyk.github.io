@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Making a dent in the universe]]></title>
+  <link href="http://mdlugajczyk.github.io/atom.xml" rel="self"/>
+  <link href="http://mdlugajczyk.github.io/"/>
+  <updated>2014-01-28T23:30:01+00:00</updated>
+  <id>http://mdlugajczyk.github.io/</id>
+  <author>
+    <name><![CDATA[Marcin Długajczyk]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
